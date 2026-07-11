@@ -108,7 +108,7 @@ When the farm's **bell peppers** are ready for harvest in approximately 3 months
 | File | Description |
 |---|---|
 | `README.md` | This case study document |
-| `Lingr_Network_Revenue_Analysis.xlsx` | Full revenue tracker with charts |
+| `Lingr_Network_GreenHouse_Revenue_Charts` | Full revenue tracker with charts |
 
 ---
 
