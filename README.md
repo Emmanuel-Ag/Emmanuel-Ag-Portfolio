@@ -1,17 +1,17 @@
-# 🌐 Lingr Network — Commercial Sales & Marketing Portfolio
+# 🌐 Emmanuel Ag — Commercial Sales & Marketing Portfolio
 
-> **We don't just get you customers. We get you the *right* customers.**
+> **I don't just get you customers. I get you the *right* customers.**
 
 ---
 
-## About Lingr Network
+## About Emmanuel
 
-**Lingr Network** is a commercial sales and marketing agency that helps businesses — from agribusinesses to product brands — find, close, and retain premium buyers.
+**Hi, I'm Emmanuel, Founder of Lingr Network** a commercial sales and marketing agency that helps businesses — from agribusinesses to product brands — find, close, and retain premium buyers.
 
 We specialise in:
 - 🎯 **Buyer Acquisition** — Identifying and securing premium, stable customers
 - 📊 **Revenue Strategy** — Pricing optimisation, deal structuring, and sales planning
-- 📣 **Brand & Marketing** — Content, social media, and market positioning
+- 📣 **Brand & Marketing** — Market positioning
 - 📈 **Data-Driven Reporting** — Revenue tracking, client dashboards, and performance analytics
 
 This repository documents our **real client work, frameworks, templates, and results** — built in public for transparency and professional credibility.
