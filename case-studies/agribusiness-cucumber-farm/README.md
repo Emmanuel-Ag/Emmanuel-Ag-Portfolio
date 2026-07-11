@@ -62,15 +62,22 @@ We built a full harvest-to-revenue tracking system (Excel) to document every har
 | 18-Jun-26 | 85 | ₦51,000 | ₦85,000 | ₦34,000 |
 | 20-Jun-26 | 40 | ₦24,000 | ₦40,000 | ₦16,000 |
 | 22-Jun-26 | 130 | ₦78,000 | ₦130,000 | ₦52,000 |
-| **TOTAL** | **557.5 kg** | **₦334,500** | **₦557,500** | **+₦223,000** |
+| 24-Jun-26 | 50 | ₦30,000 | ₦50,000 | ₦30,000 |
+| 22-Jun-26 | 130 | ₦72,000 | ₦120,000 | ₦48,000 |
+| 22-Jun-26 | 130 | ₦41,400 | ₦69,000 | ₦27,600 |
+| 22-Jun-26 | 130 | ₦48,000 | ₦80,000 | ₦32,000 |
+| 22-Jun-26 | 130 | ₦30,000 | ₦50,000 | ₦20,000 |
+| 22-Jun-26 | 130 | ₦13,800 | ₦23,000 | ₦9,200 |
+| 22-Jun-26 | 130 | ₦34,800 | ₦58,000 | ₦23,200 |
+| **TOTAL** | **705.5 kg** | **₦604,500** | **₦1,007,500** | **+₦403,000** |
 
 ### Revenue Impact Summary
 
 ```
-Revenue Before Lingr Network:   ₦334,500
-Revenue After Lingr Network:    ₦557,500
+Revenue Before Lingr Network:   ₦604,500
+Revenue After Lingr Network:    ₦1,007,500
                                 ─────────
-Total Uplift:                  +₦223,000
+Total Uplift:                  +₦403,000
 Percentage Increase:              +66.7%
 Price Per kg Increase:   ₦600 → ₦1,000+
 ```
