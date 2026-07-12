@@ -52,8 +52,8 @@ lingr-network-repo/
 |---|---|---|
 | Avg Price per kg | ₦600 | ₦1,000 – ₦1,100 |
 | Buyer Type | Ad-hoc, irregular | 2 stable premium contracts |
-| Total Revenue (sampled) | ₦334,500 | ₦557,500 |
-| Revenue Uplift | — | **+₦223,000 (+66.7%)** |
+| Total Revenue (sampled) | ₦604,500 | ₦1,007,500 |
+| Revenue Uplift | — | **+₦403,000 (+66.7%)** |
 | Perishability Risk | HIGH | LOW |
 | Buyer Frequency | Unpredictable | Twice weekly, year-round |
 
@@ -65,8 +65,8 @@ lingr-network-repo/
 
 We work with businesses that have a great product but need the right buyers.
 
-- 📩 DM us on Instagram: **@lingrnetwork**
-- 📧 Email: hello@lingrnetwork.com
+- 📩 DM us on Instagram: **@lingr.network**
+- 📧 Email: lingr.network@gmail.com
 
 ---
 
