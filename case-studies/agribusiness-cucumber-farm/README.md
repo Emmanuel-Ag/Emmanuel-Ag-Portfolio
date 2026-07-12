@@ -1,14 +1,17 @@
 # 🥒 Case Study: Greenhouse Cucumber Farm
-**Client Type:** Agribusiness — Greenhouse Technology Farm
-**Product:** Fresh Cucumbers (perishable)
+**Client Type:** Agribusiness — Greenhouse Technlogy Farm
+---
+**Product:** Seedless Cucumbers (perishable)
+---
 **Service Provided:** Commercial Sales & Buyer Acquisition
+---
 **Status:** ✅ Active Client
 
 ---
 
 ## The Problem
 
-The farm had strong production capability — greenhouse-grown cucumbers at consistent volume — but no reliable buyers.
+The farm has strong production capability — greenhouse-grown cucumbers at consistent year round volume — but no reliable buyers.
 
 They were selling to whoever showed up, at whatever price they could get:
 
@@ -63,12 +66,12 @@ We built a full harvest-to-revenue tracking system (Excel) to document every har
 | 20-Jun-26 | 40 | ₦24,000 | ₦40,000 | ₦16,000 |
 | 22-Jun-26 | 130 | ₦78,000 | ₦130,000 | ₦52,000 |
 | 24-Jun-26 | 50 | ₦30,000 | ₦50,000 | ₦30,000 |
-| 25-Jun-26 | 130 | ₦72,000 | ₦120,000 | ₦48,000 |
-| 27-Jun-26 | 130 | ₦41,400 | ₦69,000 | ₦27,600 |
-| 29-Jun-26 | 130 | ₦48,000 | ₦80,000 | ₦32,000 |
-| 01-Jul-26 | 130 | ₦30,000 | ₦50,000 | ₦20,000 |
-| 02-Jul-26 | 130 | ₦13,800 | ₦23,000 | ₦9,200 |
-| 04-Jul-26 | 130 | ₦34,800 | ₦58,000 | ₦23,200 |
+| 25-Jun-26 | 120 | ₦72,000 | ₦120,000 | ₦48,000 |
+| 27-Jun-26 | 69 | ₦41,400 | ₦69,000 | ₦27,600 |
+| 29-Jun-26 | 80 | ₦48,000 | ₦80,000 | ₦32,000 |
+| 01-Jul-26 | 50 | ₦30,000 | ₦50,000 | ₦20,000 |
+| 02-Jul-26 | 23 | ₦13,800 | ₦23,000 | ₦9,200 |
+| 04-Jul-26 | 58 | ₦34,800 | ₦58,000 | ₦23,200 |
 | **TOTAL** | **1007.5 kg** | **₦604,500** | **₦1,007,500** | **+₦403,000** |
 
 ### Revenue Impact Summary
