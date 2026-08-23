@@ -5,7 +5,7 @@
 **Status:** 🟢 Active — Results updating monthly
 **Period:** July 2026 – Present
 
-> *This is Phase 2 of Lingr Network's engagement with the same greenhouse farm. Phase 1 (Cucumber) delivered a 66.7% revenue increase. See [`/case-studies/agribusiness-cucumber-farm/`](../agribusiness-cucumber-farm/) for the full story.*
+> *This is Phase 2 of Lingr Network's engagement with the same greenhouse farm. Phase 1 (Cucumber) delivered a 66.7% revenue increase. See [/case-studies/agribusiness-cucumber-farm/](../agribusiness-cucumber-farm/) for the full story.*
 
 ---
 
