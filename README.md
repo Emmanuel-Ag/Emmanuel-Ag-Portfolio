@@ -6,12 +6,12 @@
 
 ## About Emmanuel
 
-**Hi, I'm Emmanuel, Founder of Lingr Network** a commercial sales and marketing agency that helps businesses — from agribusinesses to product brands — find, close, and retain premium buyers.
+Hi, I'm Emmanuel, Founder of Lingr Network a commercial sales and marketing agency that helps businesses — from agribusinesses to product brands — find, close, and retain premium buyers.
 
 We specialise in:
 - 🎯 **Buyer Acquisition** — Identifying and securing premium, stable customers
 - 📊 **Revenue Strategy** — Pricing optimisation, deal structuring, and sales planning
-- 📣 **Brand & Marketing** — Market positioning
+- 📣 **Brand & Marketing** — Content, social media, and market positioning
 - 📈 **Data-Driven Reporting** — Revenue tracking, client dashboards, and performance analytics
 
 This repository documents our **real client work, frameworks, templates, and results** — built in public for transparency and professional credibility.
@@ -24,7 +24,8 @@ This repository documents our **real client work, frameworks, templates, and res
 lingr-network-repo/
 │
 ├── case-studies/
-│   └── agribusiness-cucumber-farm/     ← Live client: Greenhouse cucumber farm
+│   ├── agribusiness-cucumber-farm/     ← Phase 1: Greenhouse cucumber (ACTIVE)
+│   └── agribusiness-bell-pepper-farm/  ← Phase 2: Greenhouse bell peppers (ACTIVE)
 │
 ├── frameworks/
 │   ├── buyer-acquisition-framework.md  ← Our repeatable process for finding buyers
@@ -44,9 +45,9 @@ lingr-network-repo/
 
 ---
 
-## 🏆 Featured Case Study
+## 🏆 Case Studies
 
-### 🥒 Greenhouse Cucumber Farm — Revenue Transformation
+### 🥒 Case Study 1 — Greenhouse Cucumber Farm 🟢 Active
 
 | Metric | Before Lingr Network | After Lingr Network |
 |---|---|---|
@@ -56,8 +57,37 @@ lingr-network-repo/
 | Revenue Uplift | — | **+₦403,000 (+66.7%)** |
 | Perishability Risk | HIGH | LOW |
 | Buyer Frequency | Unpredictable | Twice weekly, year-round |
+| Months Active | Jun 2026 – Present | — |
 
 📂 Full case study → [`/case-studies/agribusiness-cucumber-farm/`](./case-studies/agribusiness-cucumber-farm/)
+
+---
+
+### 🫑 Case Study 2 — Greenhouse Bell Pepper Farm 🟢 Active
+
+| Metric | Before Lingr Network | After Lingr Network |
+|---|---|---|
+| Avg Price per kg (Red) | ₦6,000 – ₦7,000 | ₦8,000 – ₦9,500 |
+| Avg Price per kg (Green) | ₦5,000 – ₦7,000 | ₦7,500 – ₦9,500 |
+| Total kg Sold (Jul–Aug 26) | 106 kg | 106 kg |
+| Total Revenue — Before | ₦652,000 | — |
+| Total Revenue — After | — | ₦941,000 |
+| Revenue Uplift | — | **+₦289,000 (+44.3%)** |
+| Months Active | Jul 2026 – Present | — |
+
+📂 Full case study → [`/case-studies/agribusiness-bell-pepper-farm/`](./case-studies/agribusiness-bell-pepper-farm/)
+
+---
+
+## 📊 Combined Client Impact (To Date)
+
+| Product | Revenue Uplift | % Increase | Status |
+|---|---|---|---|
+| Greenhouse Cucumber | +₦403,000 | +66.7% | 🟢 Active & Growing |
+| Greenhouse Bell Pepper | +₦289,000 | +44.3% | 🟢 Active & Growing |
+| **Combined Total** | **+₦692,000** | — | — |
+
+> Same farm. Two products. Over **₦692,000 in additional revenue** secured by Lingr Network.
 
 ---
 
