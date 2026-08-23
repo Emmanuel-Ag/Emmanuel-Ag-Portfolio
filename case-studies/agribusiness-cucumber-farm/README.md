@@ -1,17 +1,15 @@
-# 🥒 Case Study: Greenhouse Cucumber Farm
-**Client Type:** Agribusiness — Greenhouse Technlogy Farm
----
-**Product:** Seedless Cucumbers (perishable)
----
+# 🥒 Case Study: Greenhouse Cucumber Farm ✅
+**Client Type:** Agribusiness — Greenhouse Technology Farm
+**Product:** Fresh Cucumbers (perishable)
 **Service Provided:** Commercial Sales & Buyer Acquisition
----
 **Status:** ✅ Active Client
+**Period:**  Jun 2026 - Date
 
 ---
 
 ## The Problem
 
-The farm has strong production capability — greenhouse-grown cucumbers at consistent year round volume — but no reliable buyers.
+The farm had strong production capability — greenhouse-grown cucumbers at consistent volume — but no reliable buyers.
 
 They were selling to whoever showed up, at whatever price they could get:
 
@@ -93,16 +91,15 @@ Price Per kg Increase:   ₦600 → ₦1,000+
 | Reseller | ₦1,100 | 2x | ₦110,000 | ₦5,720,000 |
 | **Combined** | | | **₦210,000** | **₦10,920,000** |
 
-*(Based on 50kg per visit assumption — scales with actual harvest volume)*
+*(Based on 50kg per visit — scales with actual harvest volume)*
 
 ---
 
-## Next Phase
+## What Came Next
 
-When the farm's **bell peppers** are ready for harvest in approximately 3 months, Lingr Network will:
-- Identify premium buyers in the restaurant, hotel, and retail space
-- Negotiate above-market contracts before the first harvest
-- Extend the revenue tracking system to cover bell pepper sales
+With the cucumber engagement successfully sampled, the client asked Lingr Network to expand into their **bell pepper product line**, which came to harvest in July 2026.
+
+📂 See: [`/case-studies/agribusiness-bell-pepper-farm/`](../agribusiness-bell-pepper-farm/)
 
 ---
 
@@ -111,7 +108,7 @@ When the farm's **bell peppers** are ready for harvest in approximately 3 months
 | File | Description |
 |---|---|
 | `README.md` | This case study document |
-| `Lingr_Network_GreenHouse_Revenue_Charts` | Full revenue tracker with charts |
+| `Lingr_Network_GreenHouse_Revenue_Charts_Bell Peppers` | Full revenue tracker with charts |
 
 ---
 
