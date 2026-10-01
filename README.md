@@ -6,13 +6,13 @@
 
 ## About Emmanuel
 
-Hi, I'm Emmanuel, Founder of Lingr Network a commercial sales and marketing agency that helps businesses - from agribusinesses to product brands — find, close, and retain premium buyers.
+Hi, I'm Emmanuel, Founder of Lingr Network a commercial sales and marketing agency that helps businesses - from agribusinesses to product brands - find, close, and retain premium buyers.
 
 We specialise in:
-- 🎯 **Buyer Acquisition** — Identifying and securing premium, stable customers
-- 📊 **Revenue Strategy** — Pricing optimisation, deal structuring, and sales planning
-- 📣 **Brand & Marketing** — Content, social media, and market positioning
-- 📈 **Data-Driven Reporting** — Revenue tracking, client dashboards, and performance analytics
+- 🎯 **Buyer Acquisition** - Identifying and securing premium, stable customers
+- 📊 **Revenue Strategy** - Pricing optimisation, deal structuring, and sales planning
+- 📣 **Brand & Marketing** - Content, social media, and market positioning
+- 📈 **Data-Driven Reporting** - Revenue tracking, client dashboards, and performance analytics
 
 This repository documents our **real client work, frameworks, templates, and results** — built in public for transparency and professional credibility.
 
@@ -47,23 +47,23 @@ lingr-network-repo/
 
 ## 🏆 Case Studies
 
-### 🥒 Case Study 1 — Greenhouse Cucumber Farm
+### 🥒 Case Study 1 - Greenhouse Cucumber Farm
 
 | Metric | Before Lingr Network | After Lingr Network |
 |---|---|---|
 | Avg Price per kg | ₦600 | ₦1,000 – ₦1,100 |
 | Buyer Type | Ad-hoc, irregular | 2 stable premium contracts |
 | Total Revenue (sampled) | ₦604,500 | ₦1,007,500 |
-| Revenue Uplift | — | **+₦403,000 (+66.7%)** |
+| Revenue Uplift | - | **+₦403,000 (+66.7%)** |
 | Perishability Risk | HIGH | LOW |
 | Buyer Frequency | Unpredictable | Twice weekly, year-round |
-| Months Active | Jun 2026 – Present | — |
+| Months Active | Jun 2026 - Present | - |
 
 📂 Full case study → [`/case-studies/agribusiness-cucumber-farm/`](./case-studies/agribusiness-cucumber-farm/)
 
 ---
 
-### 🫑 Case Study 2 — Greenhouse Bell Pepper Farm
+### 🫑 Case Study 2 - Greenhouse Bell Pepper Farm
 
 | Metric | Before Lingr Network | After Lingr Network |
 |---|---|---|
