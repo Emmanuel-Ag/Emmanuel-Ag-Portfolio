@@ -86,7 +86,7 @@ lingr-network-repo/
 |---|---|---|---|
 | Greenhouse Cucumber | +₦403,000 | +66.7% |
 | Greenhouse Bell Pepper | +₦715,421 | +72.65% |
-| **Combined Total** | **+₦1,118,4211** | — | — |
+| **Combined Total** | **+₦1,118,421** | — | — |
 
 > Same farm. Two products. Over **₦692,000 in additional revenue** secured by Lingr Network.
 
