@@ -14,9 +14,9 @@
 After delivering a **+₦403,000 revenue uplift** on the cucumber product line, the farm's bell peppers came to harvest in July 2026. They brought Lingr Network back to do the same thing for bell peppers — secure premium buyers before harvest, hold pricing power, and eliminate the risk of selling at distressed prices.
 
 Bell peppers carry additional complexity compared to cucumbers:
-- **Two distinct varieties** — Red and Green — each with different market prices
+- **Three distinct varieties** — Red, Yellow and Green — each with different market prices
 - **Price sensitivity** — the market for bell peppers is more fragmented, with wider gaps between street-market prices and restaurant/premium prices
-- **Volume variability** — Red and Green are harvested and sold in different quantities per batch
+- **Volume variability** — Red, Yellow and Green are harvested and sold in different quantities per batch
 
 ---
 
