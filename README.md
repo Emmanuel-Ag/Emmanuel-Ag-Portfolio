@@ -47,7 +47,7 @@ lingr-network-repo/
 
 ## 🏆 Case Studies
 
-### 🥒 Case Study 1 — Greenhouse Cucumber Farm 🟢 Active
+### 🥒 Case Study 1 — Greenhouse Cucumber Farm
 
 | Metric | Before Lingr Network | After Lingr Network |
 |---|---|---|
@@ -63,7 +63,7 @@ lingr-network-repo/
 
 ---
 
-### 🫑 Case Study 2 — Greenhouse Bell Pepper Farm 🟢 Active
+### 🫑 Case Study 2 — Greenhouse Bell Pepper Farm
 
 | Metric | Before Lingr Network | After Lingr Network |
 |---|---|---|
@@ -73,7 +73,7 @@ lingr-network-repo/
 | Total Revenue — Before | ₦652,000 | — |
 | Total Revenue — After | — | ₦941,000 |
 | Revenue Uplift | — | **+₦289,000 (+44.3%)** |
-| Months Active | Jul 2026 – Present | — |
+| Months Active | Jul 2026 – September 2026 | — |
 
 📂 Full case study → [`/case-studies/agribusiness-bell-pepper-farm/`](./case-studies/agribusiness-bell-pepper-farm/)
 
@@ -83,8 +83,8 @@ lingr-network-repo/
 
 | Product | Revenue Uplift | % Increase | Status |
 |---|---|---|---|
-| Greenhouse Cucumber | +₦403,000 | +66.7% | 🟢 Active & Growing |
-| Greenhouse Bell Pepper | +₦289,000 | +44.3% | 🟢 Active & Growing |
+| Greenhouse Cucumber | +₦403,000 | +66.7% |
+| Greenhouse Bell Pepper | +₦289,000 | +44.3% |
 | **Combined Total** | **+₦692,000** | — | — |
 
 > Same farm. Two products. Over **₦692,000 in additional revenue** secured by Lingr Network.
