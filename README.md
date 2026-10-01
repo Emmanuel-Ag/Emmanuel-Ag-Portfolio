@@ -88,7 +88,7 @@ lingr-network-repo/
 | Greenhouse Bell Pepper | +₦715,421 | +72.65% |
 | **Combined Total** | **+₦1,118,421** | — | — |
 
-> Same farm. Two products. Over **₦692,000 in additional revenue** secured by Lingr Network.
+> Same farm. Two products. Over **₦1,118,421 in additional revenue** secured by Lingr Network.
 
 ---
 
