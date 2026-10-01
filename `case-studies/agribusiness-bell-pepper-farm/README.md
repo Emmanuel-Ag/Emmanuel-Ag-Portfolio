@@ -112,7 +112,7 @@ Pricing scaled upward through July and August as buyer relationships were secure
 ### Overall Results
 
 ```
-Revenue Before Lingr Network:   ₦982,080
+Revenue Before Lingr Network:   ₦980,080
 Revenue After Lingr Network:    ₦1,695,500
                                 ─────────
 Total Uplift:                  +₦715,420
