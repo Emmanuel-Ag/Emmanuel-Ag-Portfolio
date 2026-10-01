@@ -6,7 +6,7 @@
 
 ## About Emmanuel
 
-Hi, I'm Emmanuel, Founder of Lingr Network a commercial sales and marketing agency that helps businesses — from agribusinesses to product brands — find, close, and retain premium buyers.
+Hi, I'm Emmanuel, Founder of Lingr Network a commercial sales and marketing agency that helps businesses - from agribusinesses to product brands — find, close, and retain premium buyers.
 
 We specialise in:
 - 🎯 **Buyer Acquisition** — Identifying and securing premium, stable customers
