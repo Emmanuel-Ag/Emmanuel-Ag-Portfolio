@@ -27,6 +27,7 @@ Bell peppers carry additional complexity compared to cucumbers:
 | Variety | Street Price (Before) | Lingr Network Price (After) | Uplift |
 |---|---|---|---|
 | Red Bell Pepper | ₦6,000 - ₦7,000/kg | ₦8,000 - ₦9,500/kg | +₦2,000 - ₦2,500/kg |
+| Yellow Bell Pepper | ₦5,000 - ₦7,000/kg | ₦7,500 - ₦9,500/kg | +₦2,000 - ₦2,500/kg |
 | Green Bell Pepper | ₦5,000 - ₦7,000/kg | ₦7,500 - ₦9,500/kg | +₦2,000 - ₦2,500/kg |
 
 Pricing scaled upward through July and August as buyer relationships were secured and the product's quality commanded higher rates.
