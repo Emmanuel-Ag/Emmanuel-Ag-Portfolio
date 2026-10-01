@@ -69,10 +69,11 @@ lingr-network-repo/
 |---|---|---|
 | Avg Price per kg (Red) | ₦6,000 – ₦7,000 | ₦8,000 – ₦9,500 |
 | Avg Price per kg (Green) | ₦5,000 – ₦7,000 | ₦7,500 – ₦9,500 |
-| Total kg Sold (Jul–Aug 26) | 106 kg | 106 kg |
-| Total Revenue — Before | ₦652,000 | — |
-| Total Revenue — After | — | ₦941,000 |
-| Revenue Uplift | — | **+₦289,000 (+44.3%)** |
+| Avg Price per kg (Yellow) | ₦6,000 – ₦7,000 | ₦8,000 – ₦9,500 |
+| Total kg Sold (Jul - Sept 26) | 194 kg |
+| Total Revenue — Before | ₦980,080 | — |
+| Total Revenue — After | — | ₦1,695,500 |
+| Revenue Uplift | — | **+₦715,421 (+72.65%)** |
 | Months Active | Jul 2026 – September 2026 | — |
 
 📂 Full case study → [`/case-studies/agribusiness-bell-pepper-farm/`](./case-studies/agribusiness-bell-pepper-farm/)
@@ -84,8 +85,8 @@ lingr-network-repo/
 | Product | Revenue Uplift | % Increase | Status |
 |---|---|---|---|
 | Greenhouse Cucumber | +₦403,000 | +66.7% |
-| Greenhouse Bell Pepper | +₦289,000 | +44.3% |
-| **Combined Total** | **+₦692,000** | — | — |
+| Greenhouse Bell Pepper | +₦715,421 | +72.65% |
+| **Combined Total** | **+₦1,118,4211** | — | — |
 
 > Same farm. Two products. Over **₦692,000 in additional revenue** secured by Lingr Network.
 
