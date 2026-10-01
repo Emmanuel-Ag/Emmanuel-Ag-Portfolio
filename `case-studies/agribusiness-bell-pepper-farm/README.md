@@ -15,7 +15,7 @@ After delivering a **+₦403,000 revenue uplift** on the cucumber product line, 
 
 Bell peppers carry additional complexity compared to cucumbers:
 - **Three distinct varieties** — Red, Yellow and Green — each with different market prices
-- **Price sensitivity** — the market for bell peppers is more fragmented, with wider gaps between street-market prices and restaurant/premium prices
+- **Price sensitivity** — the market for bell peppers is more fragmented, with wider gaps between street market prices and restaurant/premium prices
 - **Volume variability** — Red, Yellow and Green are harvested and sold in different quantities per batch
 
 ---
