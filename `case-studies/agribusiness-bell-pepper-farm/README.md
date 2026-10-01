@@ -1,9 +1,9 @@
 # 🫑 Case Study: Greenhouse Bell Pepper Farm 🟢
-**Client Type:** Agribusiness — Greenhouse Technology Farm
-**Product:** Fresh Bell Peppers — Red, Yellow & Green (perishable)
+**Client Type:** Agribusiness - Greenhouse Technology Farm
+**Product:** Fresh Bell Peppers - Red, Yellow & Green (perishable)
 **Service Provided:** Commercial Sales & Buyer Acquisition
-**Status:** ⚫ Ended — Results updated
-**Period:** July 2026 – September 2026
+**Status:** ⚫ Ended - Results updated
+**Period:** July 2026 - September 2026
 
 > *This is Phase 2 of Lingr Network's engagement with the same greenhouse farm. Phase 1 (Cucumber) delivered a 66.7% revenue increase. See [/case-studies/agribusiness-cucumber-farm/](../agribusiness-cucumber-farm/) for the full story.*
 
@@ -11,12 +11,12 @@
 
 ## Background
 
-After delivering a **+₦403,000 revenue uplift** on the cucumber product line, the farm's bell peppers came to harvest in July 2026. They brought Lingr Network back to do the same thing for bell peppers — secure premium buyers before harvest, hold pricing power, and eliminate the risk of selling at distressed prices.
+After delivering a **+₦403,000 revenue uplift** on the cucumber product line, the farm's bell peppers came to harvest in July 2026. They brought Lingr Network back to do the same thing for bell peppers - secure premium buyers before harvest, hold pricing power, and eliminate the risk of selling at distressed prices.
 
 Bell peppers carry additional complexity compared to cucumbers:
-- **Three distinct varieties** — Red, Yellow and Green — each with different market prices
-- **Price sensitivity** — the market for bell peppers is more fragmented, with wider gaps between street market prices and restaurant/premium prices
-- **Volume variability** — Red, Yellow and Green are harvested and sold in different quantities per batch
+- **Three distinct varieties** - Red, Yellow and Green each with different market prices
+- **Price sensitivity** - the market for bell peppers is more fragmented, with wider gaps between street market prices and restaurant/premium prices
+- **Volume variability** - Red, Yellow and Green are harvested and sold in different quantities per batch
 
 ---
 
@@ -26,8 +26,8 @@ Bell peppers carry additional complexity compared to cucumbers:
 
 | Variety | Street Price (Before) | Lingr Network Price (After) | Uplift |
 |---|---|---|---|
-| Red Bell Pepper | ₦6,000 – ₦7,000/kg | ₦8,000 – ₦9,500/kg | +₦2,000 – ₦2,500/kg |
-| Green Bell Pepper | ₦5,000 – ₦7,000/kg | ₦7,500 – ₦9,500/kg | +₦2,000 – ₦2,500/kg |
+| Red Bell Pepper | ₦6,000 - ₦7,000/kg | ₦8,000 - ₦9,500/kg | +₦2,000 - ₦2,500/kg |
+| Green Bell Pepper | ₦5,000 - ₦7,000/kg | ₦7,500 - ₦9,500/kg | +₦2,000 - ₦2,500/kg |
 
 Pricing scaled upward through July and August as buyer relationships were secured and the product's quality commanded higher rates.
 
