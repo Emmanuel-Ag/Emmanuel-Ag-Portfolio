@@ -1,9 +1,9 @@
 # 🫑 Case Study: Greenhouse Bell Pepper Farm 🟢
 **Client Type:** Agribusiness — Greenhouse Technology Farm
-**Product:** Fresh Bell Peppers — Red & Green (perishable)
+**Product:** Fresh Bell Peppers — Red, Yellow & Green (perishable)
 **Service Provided:** Commercial Sales & Buyer Acquisition
-**Status:** 🟢 Active — Results updating monthly
-**Period:** July 2026 – Present
+**Status:** ⚫ Ended — Results updated
+**Period:** July 2026 – September 2026
 
 > *This is Phase 2 of Lingr Network's engagement with the same greenhouse farm. Phase 1 (Cucumber) delivered a 66.7% revenue increase. See [/case-studies/agribusiness-cucumber-farm/](../agribusiness-cucumber-farm/) for the full story.*
 
@@ -47,11 +47,12 @@ Pricing scaled upward through July and August as buyer relationships were secure
 | Monday | 20-Jul-26 | Red | 2 | 7,000 | 8,000 | 14,000 | 16,000 | 2,000 |
 | Thursday | 23-Jul-26 | Red | 3 | 7,000 | 9,000 | 21,000 | 27,000 | 6,000 |
 | Thursday | 23-Jul-26 | Green | 7 | 7,000 | 9,000 | 49,000 | 63,000 | 14,000 |
+| Thursday | 23-Jul-26 | Green | 10 | 6,000 | 8,000 | 60,000 | 80,000 | 20,000 |
 | Monday | 27-Jul-26 | Red | 3 | 7,000 | 9,000 | 21,000 | 27,000 | 6,000 |
 | Monday | 27-Jul-26 | Green | 7 | 7,000 | 9,000 | 49,000 | 63,000 | 14,000 |
 | Thursday | 30-Jul-26 | Red | 3 | 7,000 | 9,000 | 21,000 | 27,000 | 6,000 |
 | Thursday | 30-Jul-26 | Green | 7 | 7,000 | 9,000 | 49,000 | 63,000 | 14,000 |
-| **July Total** | | | **55 kg** | | | **₦366,000** | **₦461,500** | **+₦95,500** |
+| **July Total** | | | **65 kg** | | | **₦426,000** | **₦541,500** | **+₦115,500** |
 
 ---
 
@@ -69,7 +70,30 @@ Pricing scaled upward through July and August as buyer relationships were secure
 | Thursday | 13-Aug-26 | Green | 5 | 4,000 | 9,500 | 20,000 | 47,500 | 27,500 |
 | Monday | 17-Aug-26 | Green | 10 | 4,000 | 9,000 | 40,000 | 90,000 | 50,000 |
 | Monday | 17-Aug-26 | Red | 5 | 5,000 | 9,500 | 25,000 | 47,500 | 22,500 |
-| **August Total** | | | **51 kg** | | | **₦286,000** | **₦479,500** | **+₦193,500** |
+| Monday | 24-Aug-26 | Green | 5 | 4,000 | 9,000 | 20,000 | 45,000 | 25,000 |
+| Monday | 24-Aug-26 | Red | 3 | 5,000 | 9,500 | 15,000 | 28,500 | 13,500 |
+| Thursday | 27-Aug-26 | Green | 7 | 4,000 | 9,000 | 28,000 | 63,000 | 35,000 |
+| Thursday | 27-Aug-26 | Red | 3 | 5,000 | 9,500 | 15,000 | 28,500 | 13,500 |
+| Friday | 28-Aug-26 | Red | 5 | 5,000 | 6,500 | 25,000 | 32,500 | 17,500 |
+| Friday | 28-Aug-26 | Green | 5 | 3,000 | 6,500 | 15,000 | 32,500 | 7,500 |
+| Friday | 28-Aug-26 | Yellow | 5 | 6,000 | 6,500 | 25,000 | 32,500 | 7,500 |
+| Monday | 31-Aug-26 | Green | 10 | 1,914 | 9,000 | 19,130 | 90,000 | 70,870 |
+| Monday | 31-Aug-26 | Red | 5 | 4,000 | 9,500 | 20,000 | 47,500 | 27,500 |
+| **August Total** | | | **99 kg** | | | **₦468,130** | **₦879,500** | **+₦411,370** |
+
+---
+
+### 🟢 Sepetember 2026
+
+| Day | Date | Variety | Kg Sold | Price Before (₦/kg) | Price After (₦/kg) | Rev Before (₦) | Rev After (₦) | Uplift (₦) |
+|---|---|---|---|---|---|---|---|---|
+| Monday | 07-Sept-26 | Green | 7 | 1,430 | 9,000 | 10,000 | 63,000 | 53,000 |
+| Monday | 07-Sept-26 | Red | 3 | 6,000 | 9,500 | 18,000 | 28,500 | 10,500 |
+| Thursday | 10-Sept-26 | Green | 7 | 1,850 | 9,000 | 12,950 | 63,000 | 50,050 |
+| Thursday | 10-Sept-26 | Red | 3 | 1,430 | 9,500 | 13,500 | 28,500 | 15,000 |
+| Monday | 14-Sept-26 | Green | 7 | 3,000 | 9,000 | 21,000 | 63,000 | 42,000 |
+| Monday | 14-Sept-26 | Red | 3 | 3,500 | 9,500 | 10,500 | 28,500 | 18,000 |
+| **September Total** | | | **30 kg** | | | **₦85,950** | **₦274,500** | **+₦185,550** |
 
 ---
 
@@ -79,18 +103,19 @@ Pricing scaled upward through July and August as buyer relationships were secure
 
 | Month | Kg Sold | Revenue Before (₦) | Revenue After (₦) | Uplift (₦) |
 |---|---|---|---|---|
-| July 2026 | 55 | 366,000 | 461,500 | +95,500 |
-| August 2026 | 51 | 286,000 | 479,500 | +193,500 |
-| **Total** | **106** | **₦652,000** | **₦941,000** | **+₦289,000** |
+| July 2026 | 65 | 426,000 | 541,500 | +115,500 |
+| August 2026 | 99 | 468,130 | 879,500 | +411,370 |
+| September 2026 | 30 | 85,950 | 274,500 | +188,550 |
+| **Total** | **194** | **₦980,080** | **₦1,695,500** | **+₦715,420** |
 
 ### Overall Results
 
 ```
-Revenue Before Lingr Network:   ₦652,000
-Revenue After Lingr Network:    ₦941,000
+Revenue Before Lingr Network:   ₦982,080
+Revenue After Lingr Network:    ₦1,695,500
                                 ─────────
-Total Uplift:                  +₦289,000
-Percentage Increase:              +44.3%
+Total Uplift:                  +₦715,420
+Percentage Increase:              +72.65%
 Avg Price Before:       ₦6,200/kg
 Avg Price After:        ₦8,900/kg
 ```
@@ -98,11 +123,12 @@ Avg Price After:        ₦8,900/kg
 ### Notable Trend: Uplift Growing Month-on-Month
 
 ```
-July Uplift:    ₦95,500  (on 55 kg)
-August Uplift:  ₦193,500 (on 51 kg)
+July Uplift:    ₦115,500  (on 65 kg)
+August Uplift:  ₦411,370 (on 99 kg)
+August Uplift:  ₦188,550 (on 30 kg)
 ```
 
-**Less volume in August but more than double the uplift.** This is the compounding effect of stronger buyer relationships and higher price points secured as the engagement matured. The 17-Aug sale of 10kg Green at ₦9,000/kg (vs ₦4,000 before) — a ₦50,000 single-day uplift — is a clear illustration of what premium positioning delivers.
+**More volume in August and more than double the uplift.** This is the compounding effect of stronger buyer relationships and higher price points secured as the engagement matured. The 17-Aug sale of 10kg Green at ₦9,000/kg (vs ₦4,000 before) — a ₦50,000 single-day uplift — is a clear illustration of what premium positioning delivers.
 
 ---
 
@@ -110,9 +136,9 @@ August Uplift:  ₦193,500 (on 51 kg)
 
 | Product | Revenue Uplift | % Increase | Status |
 |---|---|---|---|
-| Cucumber (May–Jun 26) | +₦223,000 | +66.7% | 🟢 Active |
-| Bell Pepper (Jul–Aug 26) | +₦289,000 | +44.3% | 🟢 Active |
-| **Grand Total** | **+₦692,000** | — | — |
+| Cucumber (May–Jun 26) | +₦403,000 | +66.7% |
+| Bell Pepper (Jul–Sept 26) | +₦715,420 | +72.65% |
+| **Grand Total** | **+₦1,118,420** | — | — |
 
 ---
 
